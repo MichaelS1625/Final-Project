@@ -1,0 +1,58 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+button {
+    padding-left: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+
+video {
+    width: 55%;
+    border: 8px, transparent blue;
+    border-radius: 15px;
+}
+
+
+h1, h2 {
+    text-align: center;
+    color: #31326f;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    color: #31326f;
+    text-align: center;
+    background-color: rgba(rgba(0, 0, 0, 0.466), rgba(0, 0, 0, 0.466), rgba(0, 0, 255, 0.76), alpha)
+}
+
+header {
+    padding: 20px;
+    margin: auto;
+}
+
+output {
+    color: #31326f;
+}
+
+body {
+    background-color: 222831;
+    top: 100px;
+    bottom: 100px;
+    left: 50px;
+    right: 50px;
+    text-align: center;
+}
